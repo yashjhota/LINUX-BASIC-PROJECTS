@@ -1,4 +1,4 @@
-# LINUX-BEGINEER-PROJECTS
+# Scripts Info
 
 ## 📝 Bash Script to Display System Information
 
