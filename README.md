@@ -33,3 +33,9 @@
   ```bash
   ./sys_info.sh
   ```
+
+🌟 **Benefits**:
+    - Quick and easy way to get system information.
+    - Useful for troubleshooting and system monitoring.
+
+🔗 **Repository**: [LINUX-BASIC-PROJECTS](https://github.com/yashjhota/LINUX-BASIC-PROJECTS)
