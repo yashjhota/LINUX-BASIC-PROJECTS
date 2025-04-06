@@ -30,8 +30,8 @@
    chmod +x sys_info.sh
    ```
 4.Run the script:
-  ```bash
-  ./sys_info.sh
+   ```bash
+     ./sys_info.sh
   ```
 
 🌟 **Benefits**:
